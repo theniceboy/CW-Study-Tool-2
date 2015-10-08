@@ -27,3 +27,18 @@ E:\360云盘\Visual Studio 2012\CW Study Tool\CW Study Tool 2\CW Study Tool 2\ob
 E:\360云盘\Visual Studio 2012\CW Study Tool\CW Study Tool 2\CW Study Tool 2\obj\Debug\CW Study Tool 2.csproj.ResolveComReference.cache
 E:\360云盘\Visual Studio 2012\CW Study Tool\CW Study Tool 2\CW Study Tool 2\obj\Debug\CW Study Tool 2.exe
 E:\360云盘\Visual Studio 2012\CW Study Tool\CW Study Tool 2\CW Study Tool 2\obj\Debug\CW Study Tool 2.pdb
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\bin\Debug\CW Study Tool 2.exe.config
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\Interop.WMPLib.dll
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\AxInterop.WMPLib.dll
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW Study Tool 2.csproj.ResolveComReference.cache
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW Study Tool 2.exe
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW Study Tool 2.pdb
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW Study Tool 2.csprojResolveAssemblyReference.cache
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmAddWord.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmHistory.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmInput.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmStudy.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmMain.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.FrmWordList.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW_Study_Tool_2.Properties.Resources.resources
+Y:\Github\CW-Study-Tool-2\CW Study Tool 2\obj\Debug\CW Study Tool 2.csproj.GenerateResource.Cache
